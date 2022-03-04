@@ -497,7 +497,7 @@ input[type='checkbox']:checked + .sidebar {
   content: '';
   width: 50px;
   height: 80px;
-  background-image: url('/image/hover-01.png');
+  background-image: url('../image/hover-01.png');
   position: absolute;
   left: 0px;
   z-index: -1;
@@ -508,7 +508,7 @@ input[type='checkbox']:checked + .sidebar {
   content: '';
   width: 50px;
   height: 80px;
-  background-image: url('/image/hover-02.png');
+  background-image: url('../image/hover-02.png');
   position: absolute;
   right: 0px;
   top: -10px;
@@ -870,7 +870,7 @@ input[type='checkbox']:checked + .sidebar {
 .video {
   width: 92%;
   height: 350px;
-  background: url('/image/img-13.jpg') no-repeat center/cover;
+  background: url('../image/img-13.jpg') no-repeat center/cover;
   position: relative;
 }
 
@@ -1078,7 +1078,7 @@ input[type='checkbox']:checked + .sidebar {
 }
 
 .col11 {
-  background: url('http://miotheme.com/html/Delish/assets/images/footer/bg-foot.png') no-repeat center;
+  background: url('../image/bg-foot.png') no-repeat center;
   overflow: hidden;
   padding: 15px;
   padding-top: 50px;

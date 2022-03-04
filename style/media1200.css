@@ -655,7 +655,7 @@
   .col8 {
     justify-content: center;
     align-items: center;
-    background: url('/image/bg.png') no-repeat center/cover;
+    background: url('../image/bg.png') no-repeat center/cover;
   }
 
   .HOTDOGS {
@@ -721,7 +721,7 @@
   }
 
   .col10 {
-    background: url('/image/bg-brand-long.jpg') no-repeat center top/cover;
+    background: url('../image/bg-brand-long.jpg') no-repeat center top/cover;
   }
 
   .col11 {
